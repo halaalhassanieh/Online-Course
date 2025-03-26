@@ -20,6 +20,7 @@ import img19 from "./../assets/img/Courses/image5.png" ;
 import img20 from "./../assets/img/Courses/image7.png" ;
 import img21 from "./../assets/img/Courses/image10.png" ;
 
+
 interface Course {
   id: number;
   course_title: string;

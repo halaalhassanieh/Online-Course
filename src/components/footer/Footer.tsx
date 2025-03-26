@@ -1,6 +1,6 @@
 
 import { contactInfoData } from "../../data/contactinfo";
-import img from '../../assets/img/Logo.png'
+import img from '/assets/img/Logo.png'
 import { NavLink } from "react-router-dom";
 import { ContactInfoCardProps } from "../../ui/ContactInfoCard";
 import FooterList, { aboutlinks, homelinks, icons } from "./FooterList";
