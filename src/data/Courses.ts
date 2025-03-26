@@ -1,24 +1,24 @@
-import img1 from "../../src/assets/img/Courses/image2.png" ;
-import img2 from "../../src/assets/img/Courses/image1.png" ;
-import img3 from "../../src/assets/img/Courses/image.png" ;
-import img4 from "../../src/assets/img/Courses/image3.png" ;
-import img5 from "../../src/assets/img/Courses/image4.png" ;
-import img6 from "../../src/assets/img/Courses/image5.png" ;
-import img7 from "../../src/assets/img/Courses/image6.png" ;
-import img8 from "../../src/assets/img/Courses/image7.png" ;
-import img9 from "../../src/assets/img/Courses/image8.png" ;
-import img10 from "../../src/assets/img/Courses/image11.png" ;
-import img11 from "../../src/assets/img/Courses/image10.png" ;
-import img12 from "../../src/assets/img/Courses/image9.png" ;
-import img13 from "../../src/assets/img/Courses/image12.png" ;
-import img14 from "../../src/assets/img/Courses/Image13.png" ;
-import img15 from "../../src/assets/img/Courses/image14.png" ;
-import img16 from "../../src/assets/img/Courses/image15.png" ;
-import img17 from "../../src/assets/img/Courses/image16.png" ;
-import img18 from "../../src/assets/img/Courses/image.png" ;
-import img19 from "../../src/assets/img/Courses/image5.png" ;
-import img20 from "../../src/assets/img/Courses/image7.png" ;
-import img21 from "../../src/assets/img/Courses/image10.png" ;
+import img1 from "/src/assets/img/Courses/image2.png" ;
+import img2 from "/src/assets/img/Courses/image1.png" ;
+import img3 from "/src/assets/img/Courses/image.png" ;
+import img4 from "/src/assets/img/Courses/image3.png" ;
+import img5 from "/src/assets/img/Courses/image4.png" ;
+import img6 from "/src/assets/img/Courses/image5.png" ;
+import img7 from "/src/assets/img/Courses/image6.png" ;
+import img8 from "/src/assets/img/Courses/image7.png" ;
+import img9 from "/src/assets/img/Courses/image8.png" ;
+import img10 from "/src/assets/img/Courses/image11.png" ;
+import img11 from "/src/assets/img/Courses/image10.png" ;
+import img12 from "/src/assets/img/Courses/image9.png" ;
+import img13 from "/src/assets/img/Courses/image12.png" ;
+import img14 from "/src/assets/img/Courses/Image13.png" ;
+import img15 from "/src/assets/img/Courses/image14.png" ;
+import img16 from "/src/assets/img/Courses/image15.png" ;
+import img17 from "/src/assets/img/Courses/image16.png" ;
+import img18 from "/src/assets/img/Courses/image.png" ;
+import img19 from "/src/assets/img/Courses/image5.png" ;
+import img20 from "/src/assets/img/Courses/image7.png" ;
+import img21 from "/src/assets/img/Courses/image10.png" ;
 
 
 interface Course {
