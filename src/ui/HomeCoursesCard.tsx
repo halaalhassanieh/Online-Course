@@ -6,9 +6,9 @@ interface HomeCoursesCardProps {
   img: string;
   title: string;
   description: string;
-  course_duration: string;
-  level: string;
-  author: string;
+  course_duration: string |undefined;
+  level: string |undefined;
+  author: string |undefined;
 }
 
 const HomeCoursesCard: React.FC<HomeCoursesCardProps> = ({

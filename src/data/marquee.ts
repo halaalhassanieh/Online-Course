@@ -1,4 +1,4 @@
-import { MarqueeCard } from "../redux/Slice/marqueeSlice";
+import { MarqueeCard}  from "../redux/slice/marqueeSlice";
 import card1 from "./../assets/img/marque/Card1.png"
 import card2 from "./../assets/img/marque/Card2.png"
 import card3 from "./../assets/img/marque/Card3.png"

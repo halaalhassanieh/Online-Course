@@ -5,7 +5,7 @@ import { Pricing, pricingHead } from "../data/Pricing";
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../redux/store";
-import { getMonthlyPlans, getYearlyPlans } from "../redux/Slice/pricingSlice";
+import { getMonthlyPlans, getYearlyPlans } from "../redux/slice/pricingSlice";
 
 const PricingSection = () => {
   const fetchMonthlyData = () => {
