@@ -2,7 +2,7 @@ import { useDispatch } from "react-redux";
 import {
   deleteContactInfo,
   MessagesInfo,
-} from "../redux/Slice/contactFormSlice";
+} from "../redux/slice/contactFormSlice";
 
 const MessagesCard = ({ id, contactInfo }: MessagesInfo) => {
   const dispatch = useDispatch();

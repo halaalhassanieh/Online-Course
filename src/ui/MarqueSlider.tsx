@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import { selectMarqueeCards } from "../redux/Slice/marqueeSlice";
+import { selectMarqueeCards } from "../redux/slice/marqueeSlice";
 
 const MarqueSlider = () => {
     const cards = useSelector(selectMarqueeCards);
