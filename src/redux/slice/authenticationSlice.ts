@@ -11,13 +11,8 @@ export interface initialStateValues {
 const initialState: initialStateValues = {
   users: [
     {
-      fullName: "Fadi Noumih",
-      email: "fadinoumih18@gmail.com",
-      password: "12345678",
-    },
-    {
-      fullName: "Haidar Shabaan",
-      email: "haidarshabaaan@gmail.com",
+      fullName: "Hala talal",
+      email: "halatalal@gmail.com",
       password: "12345678",
     },
     {

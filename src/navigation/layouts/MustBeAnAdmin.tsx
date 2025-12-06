@@ -7,7 +7,7 @@ const MustBeAnAdmin = () => {
   const navigate = useNavigate();
   // admin user is the user with the email fadinoumih18@gmail.com
   if (!currentUser) navigate("/login");
-  else if (!(currentUser?.email == "fadinoumih18@gmail.com")) {
+  else if (!(currentUser?.email == "halaalhassanieh@gmail.com")) {
     navigate("/");
   }
   return <Outlet />;
